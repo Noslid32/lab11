@@ -38,6 +38,13 @@ Esta es una aplicación de gestión de tareas desarrollada en **Jetpack Compose*
 Link de vieo de prueba correo galieleo
 https://drive.google.com/file/d/1NZTI3v0FM7xWmj1SQ0w0XcKWS4HNPeQ3/view?usp=drive_link
 
+fotos
+![Screenshot_20250331_020107](https://github.com/user-attachments/assets/76ffe358-7a47-4734-a0d6-7face820323d)
+![Screenshot_20250331_020127](https://github.com/user-attachments/assets/9095188f-e219-4a4f-9b0f-1018b50c64e9)
+![Screenshot_20250331_020202](https://github.com/user-attachments/assets/a7c5c399-f1fc-4041-b975-9a1f353618ef)
+![Screenshot_20250331_020217](https://github.com/user-attachments/assets/2bbb8aae-9f94-477b-a258-e54e666e2fa4)
+
+
 
 
 
